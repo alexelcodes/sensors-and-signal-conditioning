@@ -14,5 +14,5 @@ This folder contains Jupyter notebooks covering theory and practical signal-proc
 
 The notebooks are intended to be run using the conda environment provided in the repository root.
 
-See the main setup instructions in the 
-[repository README](../README.md#setup)
+See the main setup instructions in the
+[repository README](../README.md), **Setup** section.
