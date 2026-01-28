@@ -1,0 +1,9 @@
+file;type;T_mean;T_std;RH_mean;RH_std;P_mean;P_std;Rgas_kohm_mean;Rgas_kohm_std
+20251201_1634_baseline.csv;Baseline (air);25.45;0.1;41.95;0.19;1016.72;0.03;75.75;0.21
+20251201_1715_sens_1pct.csv;Sensitivity & Linearity;26.03;0.01;52.63;1.1;1016.59;0.04;25.81;0.18
+20251201_1827_sens_2pct.csv;Sensitivity & Linearity;26.11;0.02;52.56;1.19;1016.74;0.03;20.56;0.23
+20251201_1920_sens_4pct.csv;Sensitivity & Linearity;26.07;0.02;52.99;1.12;1016.81;0.02;14.38;0.08
+20251203_1416_repeat_1pct.csv;Repeatability;26.13;0.06;54.85;0.84;1017.05;0.04;25.76;0.12
+20251205_1450_reprod_9C.csv;Reproducibility;9.17;0.0;66.49;0.1;1017.7;0.03;22.3;0.06
+20251205_1547_reprod_25C.csv;Reproducibility;25.7;0.02;55.78;0.81;1020.41;0.02;27.79;0.17
+20251205_1639_reprod_45C.csv;Reproducibility;44.74;0.07;55.56;0.76;1019.71;0.02;20.48;0.07
