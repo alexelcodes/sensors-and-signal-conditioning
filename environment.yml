@@ -1,0 +1,13 @@
+name: ssc
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - control
+  - pooch
+  - jupyter
+  - ipykernel
