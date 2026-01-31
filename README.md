@@ -30,7 +30,7 @@ Includes:
 
 ---
 
-### Course notebooks
+### Notebooks
 
 - sensor fundamentals and signal chains
 - measurements and basic metrology
@@ -39,7 +39,7 @@ Includes:
 - digital filters
 - Kalman filters
 
-→ See [`course-notebooks`](course-notebooks)
+→ See [`notebooks`](notebooks)
 
 ---
 
