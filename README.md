@@ -15,9 +15,11 @@ This repository contains coursework and an applied project focused on sensor sig
 ## Contents
 
 ### Applied project: BME688 sensor evaluation
+
 Course project using a **Bosch BME688** environmental sensor and an **ESP32-C6** platform.
 
 Includes:
+
 - ESP-IDF firmware (C)
 - automated data logging
 - Python-based analysis and plotting
@@ -29,6 +31,7 @@ Includes:
 ---
 
 ### Course notebooks
+
 - sensor fundamentals and signal chains
 - measurements and basic metrology
 - resistive sensors
@@ -36,7 +39,7 @@ Includes:
 - digital filters
 - Kalman filters
 
-→ See [`course-notebooks/README.md`](course-notebooks/README.md)
+→ See [`course-notebooks`](course-notebooks)
 
 ---
 
@@ -56,6 +59,7 @@ Includes:
 This project uses a **conda environment** for reproducible Python dependencies.
 
 #### 1. Install conda
+
 Install **Miniforge** (recommended) or another conda distribution:
 
 - https://github.com/conda-forge/miniforge
@@ -63,6 +67,7 @@ Install **Miniforge** (recommended) or another conda distribution:
 > Conda is used to avoid compatibility issues with scientific Python libraries.
 
 #### 2. Create the environment
+
 From the repository root, create the environment using the provided `environment.yml`:
 
 ```bash
