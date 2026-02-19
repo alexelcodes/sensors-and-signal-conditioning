@@ -17,7 +17,6 @@ This repository contains coursework and an applied project focused on sensor sig
 ### Applied project: BME688 sensor evaluation
 
 Evaluation of the Bosch BME688 environmental sensor on an ESP32-C6 platform.
-platform.
 
 Features:
 
